@@ -1,0 +1,4 @@
+*.class *.log *.tmp
+*.iml *.idea *.vscode
+.git .gitignore
+/SourceCodeTitv
